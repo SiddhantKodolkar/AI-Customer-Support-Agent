@@ -1,0 +1,5 @@
+{
+  "customer_id": "C3002",
+  "channel": "sms",
+  "content": "This is honestly unacceptable. This is now my fourth time reaching out and I still don’t have a clear answer about where my car is. I was told delivery would happen over a week ago and every time I contact support I’m given a different explanation or no response at all. I’ve taken time off work twice and rearranged my schedule because of promises that were never kept. On top of that, I’m seeing charges on my card even though I don’t have the vehicle. I shouldn’t have to chase basic information like this. If someone doesn’t respond today with a real update and a clear explanation of these charges, I will escalate this further. I need this resolved immediately."
+}
